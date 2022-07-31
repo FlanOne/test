@@ -2,10 +2,5 @@ texto de prueba
 
 
 
-
-Nose Nose Nose Nose Nose Nose Nose Nose Nose 
-Nose Nose Nose Nose Nose 
-
-
-
-("Hola Jose.............")
+esperando mensaje de parra (Bla Bla
+)
